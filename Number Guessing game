@@ -15,7 +15,7 @@ int main()
         cin>>a;
         cout<<endl;
         b=rand()%10+1;
-        cout<<b<<endl;
+  
         if(b==a)
         {
             cout<<"Congratulations you guess correct number     "<<endl;
